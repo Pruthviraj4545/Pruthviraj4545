@@ -38,7 +38,7 @@ machine learning, and problem-solving.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Pruthviraj545&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Pruthviraj4545&show_icons=true&theme=github_dark&hide_border=true"
     alt="Pruthviraj's GitHub Stats"
   />
 </p>
