@@ -10,9 +10,17 @@ machine learning, and problem-solving.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pruthviraj-mule-855772292">LinkedIn</a> •
-  <a href="mailto:pruthvirajmule45@gmail.com">Email</a> •
-  <a href="https://github.com/Pruthviraj4545">GitHub</a>
+  <a href="https://www.linkedin.com/in/pruthviraj-mule-855772292">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pruthvirajmule45@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pruthviraj4545">
+    <img src="https://skillicons.dev/icons?i=github" height="35" />
+  </a>
 </p>
 
 ---
