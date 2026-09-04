@@ -12,14 +12,14 @@ machine learning, and problem-solving.
 <p align="center">
   <a href="https://www.linkedin.com/in/pruthviraj-mule-855772292">LinkedIn</a> •
   <a href="mailto:pruthvirajmule45@gmail.com">Email</a> •
-  <a href="https://github.com/Pruthviraj545">GitHub</a>
+  <a href="https://github.com/Pruthviraj4545">GitHub</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering student at **PCCoE, Pune**
+- 🎓 Computer Engineering Student at **PCCoE, Pune**
 - 💻 Interested in **Software Development and AI/ML**
 - 🧠 Practicing **Data Structures and Algorithms**
 - 🌱 Continuously learning and improving my technical skills
